@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T12:54:35.048Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.8.1" etag="LD1svm2rJEp9HXspUEi2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-06T10:47:45.422Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.8.1" etag="41_Ra5EJy-WWt9kSpaEd" type="github" pages="4">
   <diagram id="EzgrbMQAUa2cIdAqOmjm" name="Page-1">
-    <mxGraphModel dx="1678" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,33 +163,33 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Va7B87rFVZevqhoZYF97" name="Page-2">
-    <mxGraphModel dx="828" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2247" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="itfdzigQ2PQ7N6d5I9id-2" value="&lt;font color=&quot;#080808&quot;&gt;AWS Cloud&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;strokeWidth=1;fontFamily=Courier New;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="20" width="470" height="550" as="geometry" />
+        <mxCell id="itfdzigQ2PQ7N6d5I9id-2" value="&lt;font color=&quot;#080808&quot;&gt;AWS Cloud&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#000000;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;strokeWidth=1;fontFamily=Courier New;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="630" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="itfdzigQ2PQ7N6d5I9id-6" value="" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;strokeWidth=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="300" y="70" width="390" height="140" as="geometry" />
+        <mxCell id="itfdzigQ2PQ7N6d5I9id-6" value="" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#004C99;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;strokeWidth=1;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="470" height="140" as="geometry" />
         </mxCell>
         <mxCell id="itfdzigQ2PQ7N6d5I9id-8" value="" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;strokeWidth=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="300" y="390" width="400" height="140" as="geometry" />
+          <mxGeometry x="300" y="390" width="470" height="140" as="geometry" />
         </mxCell>
         <mxCell id="itfdzigQ2PQ7N6d5I9id-7" value="" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;strokeWidth=1;fontFamily=Courier New;" vertex="1" parent="1">
-          <mxGeometry x="300" y="230" width="390" height="140" as="geometry" />
+          <mxGeometry x="300" y="230" width="470" height="140" as="geometry" />
         </mxCell>
         <mxCell id="UuWnmPvBMoOVz_MHtMaw-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#067F68;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.transfer_for_sftp_resource;strokeWidth=4;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="110" y="260" width="66" height="67.74" as="geometry" />
         </mxCell>
         <mxCell id="UuWnmPvBMoOVz_MHtMaw-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#050505;strokeWidth=2;fontFamily=Courier New;fontSize=12;fontColor=#000000;startSize=3;endSize=3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="300" as="sourcePoint" />
-            <mxPoint x="110" y="300" as="targetPoint" />
+            <mxPoint x="40" y="310" as="sourcePoint" />
+            <mxPoint x="110" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="itfdzigQ2PQ7N6d5I9id-1" value="New file" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="10" y="250" width="60" height="30" as="geometry" />
+        <mxCell id="itfdzigQ2PQ7N6d5I9id-1" value="New Bulk request file" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="260" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="itfdzigQ2PQ7N6d5I9id-11" value="&lt;span style=&quot;color: rgb(84, 91, 100); font-size: 12px; text-align: left;&quot;&gt;&lt;b&gt;AZ -A&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=8 8;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#080808;" vertex="1" parent="1">
           <mxGeometry x="250" y="70" width="60" height="30" as="geometry" />
@@ -200,17 +200,146 @@
         <mxCell id="itfdzigQ2PQ7N6d5I9id-13" value="&lt;span style=&quot;color: rgb(84, 91, 100); font-size: 12px; text-align: left;&quot;&gt;&lt;b&gt;AZ -C&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=8 8;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#080808;" vertex="1" parent="1">
           <mxGeometry x="250" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="itfdzigQ2PQ7N6d5I9id-15" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Certification&amp;nbsp;&lt;br&gt;Creation&lt;br&gt;Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=default;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#080808;fillColor=#f6f4fb;align=center;" vertex="1" parent="1">
-          <mxGeometry x="490" y="100" width="120" height="420" as="geometry" />
+        <mxCell id="itfdzigQ2PQ7N6d5I9id-15" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Certificate&amp;nbsp;&lt;br&gt;Creation&lt;br&gt;Service&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=default;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#080808;fillColor=#f6f4fb;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="100" width="120" height="420" as="geometry" />
         </mxCell>
         <mxCell id="itfdzigQ2PQ7N6d5I9id-9" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;File&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Processing&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Service&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;(Workflow)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#080808;fillColor=#f6f4fb;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="120" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="_6bt_XjxXAnBtjDcwLiq-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/webp,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;" vertex="1" parent="1">
+          <mxGeometry x="900" y="140" width="188" height="52.13" as="geometry" />
+        </mxCell>
+        <mxCell id="_6bt_XjxXAnBtjDcwLiq-2" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#e40c0c;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="itfdzigQ2PQ7N6d5I9id-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="310" as="sourcePoint" />
+            <mxPoint x="170" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_6bt_XjxXAnBtjDcwLiq-3" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;dashed=1;dashPattern=1 1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="310" as="sourcePoint" />
+            <mxPoint x="520" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AynI7z4xTlNsBfK2dPpu-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_nat_gateway;fillColor=#F58536;gradientColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="434.43" width="49" height="51.13" as="geometry" />
+        </mxCell>
+        <mxCell id="AynI7z4xTlNsBfK2dPpu-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_nat_gateway;fillColor=#F58536;gradientColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="276.61" width="49" height="51.13" as="geometry" />
+        </mxCell>
+        <mxCell id="AynI7z4xTlNsBfK2dPpu-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_nat_gateway;fillColor=#F58536;gradientColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="130" width="49" height="51.13" as="geometry" />
+        </mxCell>
+        <mxCell id="AynI7z4xTlNsBfK2dPpu-4" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#336600;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="460" as="sourcePoint" />
+            <mxPoint x="750" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AynI7z4xTlNsBfK2dPpu-5" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#336600;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="300" as="sourcePoint" />
+            <mxPoint x="750" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AynI7z4xTlNsBfK2dPpu-6" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#336600;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="160" as="sourcePoint" />
+            <mxPoint x="750" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O2mFq_WI4H-TjxlQBQOV-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7559AE;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" vertex="1" parent="1">
+          <mxGeometry x="850" y="272.18" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O2mFq_WI4H-TjxlQBQOV-2" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#336600;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="300" as="sourcePoint" />
+            <mxPoint x="850" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O2mFq_WI4H-TjxlQBQOV-3" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#336600;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799" y="459.5" as="sourcePoint" />
+            <mxPoint x="830" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O2mFq_WI4H-TjxlQBQOV-4" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#336600;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="799" y="159.5" as="sourcePoint" />
+            <mxPoint x="830" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aAf18-a84nMYUbCmFF4z-1" value="Internet Gateway" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="882" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9gywrGW7q0tmeMyPSCxa-1" value="&lt;font color=&quot;#336600&quot; face=&quot;Courier New&quot; style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot;&gt;&lt;b&gt;NAT Gateway&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="173.32999999999998" width="80" height="26.67" as="geometry" />
+        </mxCell>
+        <mxCell id="89dBxXOVNK2hTPaa7EMe-1" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(51, 102, 0); font-size: 10px;&quot;&gt;AZ-A&amp;nbsp;NAT IP/&lt;/b&gt;&lt;font color=&quot;#660033&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;&lt;br&gt;AZ-B NAT IP/&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 51, 102); font-size: 10px;&quot;&gt;AZ-C NAT IP&lt;/b&gt;&lt;font color=&quot;#660033&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="990" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aS0SxoCaSSEU8UvS97Jr-1" value="&lt;font color=&quot;#660033&quot; face=&quot;Courier New&quot; style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot;&gt;&lt;b&gt;NAT Gateway&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="323.3299999999999" width="80" height="26.67" as="geometry" />
+        </mxCell>
+        <mxCell id="z3YeHECpdCN84TkoFyiq-1" value="&lt;font color=&quot;#003366&quot; face=&quot;Courier New&quot; style=&quot;font-size: 10px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot;&gt;&lt;b&gt;NAT Gateway&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="770" y="483.3299999999999" width="80" height="26.67" as="geometry" />
+        </mxCell>
+        <mxCell id="yieSJdNFCfZRiXhnt4i7-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#336600;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="300" as="sourcePoint" />
+            <mxPoint x="990" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtbECwwzcZTbiVCFoH_d-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;fillColor=#f6f4fb;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="410" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gtbECwwzcZTbiVCFoH_d-2" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#e40c0c;strokeWidth=2;fontFamily=Courier New;fontSize=10;fontColor=#000000;startSize=3;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="430" as="sourcePoint" />
+            <mxPoint x="-60" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtbECwwzcZTbiVCFoH_d-3" value="&lt;font color=&quot;#ff0000&quot;&gt;AppViewx monitoring SFTP Server for new files&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry y="420" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gtbECwwzcZTbiVCFoH_d-5" value="&lt;font color=&quot;#003366&quot;&gt;Traffic from AppViewX file processing service to Certifcate creation service&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry y="460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gtbECwwzcZTbiVCFoH_d-6" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0066CC;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;dashed=1;dashPattern=1 1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="470" as="sourcePoint" />
+            <mxPoint x="-10" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtbECwwzcZTbiVCFoH_d-7" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=1 1;strokeColor=#336600;strokeWidth=2;fontFamily=Courier New;fontSize=13;fontColor=#080808;startSize=3;endSize=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="510" as="sourcePoint" />
+            <mxPoint x="-10" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gtbECwwzcZTbiVCFoH_d-8" value="&lt;font color=&quot;#336600&quot;&gt;API call from AppViewX certifcate creation service to Primekey&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry y="500" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gtbECwwzcZTbiVCFoH_d-9" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px; background-color: rgb(255, 255, 255);&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Bulk Certificate creation flow&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#000000&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1. The AppViewX file processing service monitors the SFTP server for newly dropped files&amp;nbsp;&lt;/font&gt;and picks the new files.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2. The new file is split into microbatches of 20k each.(Eg: 100k certificate requests gets&amp;nbsp;&lt;/font&gt;split into 5 microbatches of 20k each) by&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;AppViewX File processing service.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;3.&amp;nbsp; The same service will take a single microbatch file and start creating the certificates&amp;nbsp;&amp;nbsp;&lt;/font&gt;for each row by making API calls to the&amp;nbsp;&lt;/span&gt;AppViewX Certificate Creation Service.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;(Eg: Micro&amp;nbsp;batch file with 20K request requires 20k individual API calls to the Certificate&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;creation Service)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;4. The Certificate Creation Service will make an enroll certificate API call to primekey&amp;nbsp;&lt;/font&gt;for certificate creation.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;background-color: rgb(255, 255, 255); font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Note:&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1.&amp;nbsp;&lt;/font&gt;As depicted in the image, AppViewX services are distributed across three availability zones.&amp;nbsp;&lt;/font&gt;When the File Processing Service makes&amp;nbsp;&lt;/span&gt;an API call&amp;nbsp;to the Certificate&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;Creation Service, it will&amp;nbsp;be handled by one of the certificate services&amp;nbsp; in a round-robin fashion across these&amp;nbsp;availability&amp;nbsp;&lt;font style=&quot;font-size: 14px;&quot;&gt;zones. This certificate service will&amp;nbsp;call the Primekey&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;enrollment API for certificate creation and the traffic will be routed&amp;nbsp;via the&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;corresponding NAT&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;gateway.&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot; color=&quot;#000000&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;2.&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Primekey does not offer bulk certificate creation, AppViewX handles bulk certificate requests from DexCom by making multiple individual&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;certificate creation API&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;calls to Primekey. For example, if there are 100k requests in a bulk request, 100k individual certificate creation&amp;nbsp;&lt;/font&gt;API&amp;nbsp;calls will be made to Primekey.&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=8 8;strokeWidth=2;fontFamily=Courier New;fontSize=10;fontColor=#336600;" vertex="1" parent="1">
+          <mxGeometry x="130" y="670" width="960" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="T1q3ixyBq-33sgBueCAY-1" value="&lt;b&gt;&lt;font color=&quot;#0a0a0a&quot; style=&quot;font-size: 14px;&quot;&gt;Bulk Certificate Creation Flow&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-40" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="M_5Ew0ZXiJ1iGKMcyUpU" name="Page-3">
-    <mxGraphModel dx="1678" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -397,7 +526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x0G5iM3LGKbEkw1vHQKE" name="Page-4">
-    <mxGraphModel dx="828" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
